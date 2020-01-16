@@ -11,6 +11,8 @@ alias gf='git fetch'
 alias gu='git pull'
 alias gb='git branch'
 alias gd='git diff HEAD'
+alias gr='git rebase'
+alias gch='git checkout'
 
 #CUSTOM ALIASES GRADLE
 alias grb='./gradlew clean build'
