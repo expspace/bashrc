@@ -12,7 +12,9 @@ alias gu='git pull'
 alias gb='git branch'
 alias gd='git diff HEAD'
 alias gr='git rebase'
+alias gro='git rebase origin/master'
 alias gch='git checkout'
+alias gsh='git stash'
 
 #CUSTOM ALIASES GRADLE
 alias grb='./gradlew clean build'
